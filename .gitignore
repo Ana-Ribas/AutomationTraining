@@ -1,0 +1,16 @@
+#ignore all files in the target/ directory
+target/
+
+#ignore all files in the bin/ directory
+bin/
+
+#ignore all files in the obj/ directory
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
